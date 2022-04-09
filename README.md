@@ -1,9 +1,10 @@
 # Absenteeism-Project from Business Analyst course on Udemy.
 
 This project consisted of three segments. 
+
 1) Preprocess CSV data in python using pandas library.
 
-2) Implement given Machine Learning module to obtain predicted outcomes.
+2) Implement given Machine Learning module to obtain predicted outcomes, then upload to SQL.
 
 3) Vizualize data in tableau
 
