@@ -3,9 +3,10 @@
 This project consisted of three segments. 
 1) Preprocess CSV data in python using pandas library.
 
-2) - Use predictive model - 
-a) implement machine learning module to obtain output of predicted values.
-b) import data into MySQL workbench.
+2) Read bottom for disclaimer
+- Use predictive model 
+-implement machine learning module to obtain output of predicted values.
+-import data into MySQL workbench.
 
 3) Vizualize data in tableau
 
