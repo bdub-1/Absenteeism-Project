@@ -1,4 +1,4 @@
-# Absenteeism-Project from Business Analyst course on Udemy.
+# Absenteeism-Project
 
 This project consisted of three segments. 
 
